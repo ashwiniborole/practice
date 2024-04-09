@@ -1,33 +1,35 @@
 # practice
 hello this is my demo repository
-git --global user.name " "
-git config --list
-git init
-for remove git initialize
+1) git --global user.name " "
+
+2) git config --list
+   
+4) git ini
+5) for remove git initialize
 rm -rm .git 
-before 1st commit
+7) before 1st commit
 git status
 add file:
 git add -A
 git add " " =for single
-remove file from 
+8) remove file from 
 git reset filenm.txt
 
-first commit
+9) first commit
 git commit -m " "
 
-check commit log 
+10) check commit log 
 git log
 
-cloning
+11) cloning
 git clone  url
 
-pushing changes
+12) pushing changes
 git diff
 git status 
 git add -A
 git commint -m "commit file added"
 
-then push
+13) then push
 git pull origin master
 git push  origin master 
